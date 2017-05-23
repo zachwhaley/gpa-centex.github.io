@@ -32,7 +32,7 @@ zoya:
   dob: 2009-01-13
   color: RED
   cats: no
-  available: yes
+  available: no
 
 tawny:
   name: Tawny
