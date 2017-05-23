@@ -23,7 +23,7 @@ mollie:
   dob: 2009-01-13
   color: FAWN
   cats: 
-  available: yes
+  available: no
 
 zoya:
   name: Zoya
